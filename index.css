@@ -1,0 +1,217 @@
+.navbarmatter {
+    margin-left:auto; 
+  
+} 
+/* .navbarElement {
+    padding:5px;
+    font-family: "Roboto"; 
+    font-size:25px; */
+
+
+.backgroundimage {
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    width:100vw;
+    height:85vh;
+    background-size:cover;
+} 
+#logo {
+ margin-left:40px;
+}
+#navitem1 {
+    font-family: "Roboto"; 
+    color:#323f4b;
+    font-size:21px;
+    margin:5px;
+} 
+#navitem2 {
+    font-family: "Roboto"; 
+    color:#323f4b;
+    font-size:21px;
+    margin:5px;
+}
+#navitem3 {
+    font-family: "Roboto"; 
+    color:#323f4b;
+    font-size:21px;
+    margin:5px
+}
+#navitem4 {
+    font-family: "Roboto"; 
+    color:#323f4b;
+    font-size:21px;
+    margin :5px;
+} 
+.bannerheading {
+    color:white;
+    font-family:"Roboto";
+    font-weight:bold;
+    padding:10px;
+    font-size:35px;
+} 
+.bannerparagraph {
+    color:white;
+    font-family:"Roboto";
+    font-weight:bold;
+    padding:10px;
+    font-size:25px;
+} 
+.viewbutton {
+    width:130px;
+    height:45px;
+    color:white;
+    background-color:#d0b200;
+    border-width:1px; 
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius:8px;
+    margin-right:10px; 
+  
+} 
+.orderbutton {
+    width:130px;
+    height:45px;
+    color:white;
+    background-color:#d0b200;
+    border-width:0px;
+    border-radius:8px;
+    margin-right:10px; 
+    font-weight:bold; 
+    background-color:transparent;
+    border-width:1px; 
+    border-style: solid;
+    border-color: #d0b200;
+} 
+.smallcontainer {
+    text-align:center;
+} 
+/* ------------banner section end---------- */ 
+.wcu-section {
+    background-color:#f9fbfe;
+} 
+.whychooseusheading {
+   font-family: "Roboto"; 
+   font-weight:700;
+   font-size:28px;
+   color:#183b56; 
+   margin-left:20px;
+} 
+.whychooseusparagraph {
+   font-family: "Roboto"; 
+   font-weight:400;
+   font-size:20px;
+   color:#5a7184;  
+   margin-left:20px;
+}
+.wcu-card {
+   background-color:white;  
+   text-align: center;
+   padding:10px;  
+   border:1px solid #e5eaf4; 
+   border-radius:16px;
+} 
+.serviceimage {
+    border:2px solid #d0b200; 
+    border-radius:1px; 
+    padding:5px;
+}
+.wcu-card-heading {
+   font-family: "Roboto"; 
+   font-weight:500;
+   font-size:22px;
+   color:#323f4b; 
+}
+.wcu-card-paragraph {
+    font-family: "Roboto"; 
+    font-size:18px;
+    color: #7b877b;
+} 
+.re {
+    font-weight:bold; 
+    color:black;
+}  
+/* --------------------why choose us section ------------------------- */ 
+.explore-menu-section {
+    background-color:white;
+} 
+.exploresectionheading {
+    font-family: "Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#183b56; 
+    margin-left:20px;
+ } 
+ .menuitemcard {
+    background-color:white;
+    border-radius:10px;
+
+ } 
+ .foodimage {
+    border-radius:24px;  
+    width:50%;
+   
+   
+ }
+ .firstfooditemheading {
+    color:#323f4b;
+    font-family:"Roboto";
+    font-weight:500;
+    font-size:18px;
+    margin-top:24px; 
+    
+ }  
+ .menuitemlink {
+    color:#d0b200; 
+    font-family: "Roboto"; 
+    font-weight:500;
+    font-size:14px; 
+    
+ }
+ .healthyheading {
+    font-family: "Roboto";
+    font-weight:700;
+    font-size:28px;
+    color:#183b56;
+    
+ }
+ .healthyparagraph {
+    font-family: "Roboto"; 
+    font-size:18px;
+    color: #7b877b;
+   
+
+ }
+ .healthybutton {
+    width:130px;
+    height:45px;
+    color:white;
+    background-color:#d0b200;
+    border-width:1px; 
+    border-style: solid;
+    border-color: #d0b200;
+    border-radius:8px;
+    
+} 
+.healthy-food-section {
+    background-color:white;
+} 
+.delivery-image {
+    width:50%;
+} 
+.delivery-and-payment-section  {
+    background-color:white; 
+    
+} 
+.visa {
+    height:50px; 
+    width:50px;
+    padding-left:10px; 
+   
+} 
+.Thanking-you-section {
+    background-color:rgb(242, 229, 180); 
+    border-radius:5px;
+} 
+.giftbox {
+    height:200px;
+    width:200px;
+}
